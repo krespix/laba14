@@ -1,0 +1,5 @@
+C:\Users\U2\Downloads\lab_14-master\lab_14-master\Goods\bin\Debug\Goods.dll
+C:\Users\U2\Downloads\lab_14-master\lab_14-master\Goods\bin\Debug\Goods.pdb
+C:\Users\U2\Downloads\lab_14-master\lab_14-master\Goods\obj\Debug\Goods.csprojAssemblyReference.cache
+C:\Users\U2\Downloads\lab_14-master\lab_14-master\Goods\obj\Debug\Goods.dll
+C:\Users\U2\Downloads\lab_14-master\lab_14-master\Goods\obj\Debug\Goods.pdb

@@ -1,0 +1,14 @@
+C:\Users\varto\RiderProjects\lab_14\lab_14\bin\Debug\lab_14.exe
+C:\Users\varto\RiderProjects\lab_14\lab_14\bin\Debug\lab_14.pdb
+C:\Users\varto\RiderProjects\lab_14\lab_14\obj\Debug\lab_14.csprojAssemblyReference.cache
+C:\Users\varto\RiderProjects\lab_14\lab_14\obj\Debug\lab_14.csproj.CoreCompileInputs.cache
+C:\Users\varto\RiderProjects\lab_14\lab_14\obj\Debug\lab_14.exe
+C:\Users\varto\RiderProjects\lab_14\lab_14\obj\Debug\lab_14.pdb
+C:\Users\U2\Downloads\lab_14-master\lab_14-master\lab_14\bin\Debug\lab_14.exe
+C:\Users\U2\Downloads\lab_14-master\lab_14-master\lab_14\bin\Debug\lab_14.pdb
+C:\Users\U2\Downloads\lab_14-master\lab_14-master\lab_14\bin\Debug\Goods.dll
+C:\Users\U2\Downloads\lab_14-master\lab_14-master\lab_14\bin\Debug\Goods.pdb
+C:\Users\U2\Downloads\lab_14-master\lab_14-master\lab_14\obj\Debug\lab_14.csprojAssemblyReference.cache
+C:\Users\U2\Downloads\lab_14-master\lab_14-master\lab_14\obj\Debug\lab_14.csproj.CopyComplete
+C:\Users\U2\Downloads\lab_14-master\lab_14-master\lab_14\obj\Debug\lab_14.exe
+C:\Users\U2\Downloads\lab_14-master\lab_14-master\lab_14\obj\Debug\lab_14.pdb
